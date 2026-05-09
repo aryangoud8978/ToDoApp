@@ -25,7 +25,7 @@ A modern Android To-Do application built using Kotlin, Jetpack Compose, Room Dat
 
 ## Screenshots 📱
 
-## Screenshots 📱
+
 
 | Add Task | Dark Mode |
 |-----------|------------|
